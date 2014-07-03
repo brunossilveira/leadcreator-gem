@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Bruno Silveira"]
   s.date = "2014-07-03"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Leadcreator its a gem that uses Restforce to create leads in an easy way."
   s.email = "djbrunosilveira@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -36,6 +36,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "leadcreator.gemspec",
     "lib/leadcreator.rb",
     "spec/leadcreator_spec.rb",
     "spec/spec_helper.rb",

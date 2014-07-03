@@ -15,9 +15,9 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "leadcreator"
-  gem.homepage = "http://github.com/brunossilveira/leadcreator"
+  gem.homepage = "http://github.com/brunossilveira/leadcreator-gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{Wrapper to create Leads through Salesforce Rest API}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "djbrunosilveira@gmail.com"
   gem.authors = ["Bruno Silveira"]

@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/brunossilveira/leadcreator-gem"
   gem.license = "MIT"
   gem.summary = %Q{Wrapper to create Leads through Salesforce Rest API}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{Leadcreator its a gem that uses Restforce to create leads in an easy way.}
   gem.email = "djbrunosilveira@gmail.com"
   gem.authors = ["Bruno Silveira"]
   # dependencies defined in Gemfile

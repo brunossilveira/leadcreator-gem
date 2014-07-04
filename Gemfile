@@ -16,3 +16,5 @@ group :development do
   gem 'faker', '~> 1.3'
   gem 'webmock'
 end
+
+gem 'sinatra', group: :test

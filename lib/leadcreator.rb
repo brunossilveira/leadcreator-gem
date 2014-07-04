@@ -1,8 +1,5 @@
 require 'restforce'
 
-class UnauthorizedError < RuntimeError;
-end
-
 class Lead
 
   def initialize(instance_url:, client_id:, client_secret:, oauth_token:)

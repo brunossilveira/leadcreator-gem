@@ -1,6 +1,19 @@
 = leadcreator
 
-Description goes here.
+This is a gem that uses Restforce gem in order to create leads to an authenticated client. It is basically a wrapper.
+
+The fields that the gem accepts are:
+
+- name
+- last_name
+- email
+- company
+- job_title
+- phone
+- website
+
+It automatically maps these fields to Salesforce fields.
+
 
 == Contributing to leadcreator
  
